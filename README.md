@@ -13,7 +13,7 @@ yarn start
 ```
 
 # 😱 | RESULTADO
-<img src='assets/resource/ref.PNG'/>
+<img src='./assets/resource/ref.PNG'/>
 
 # 📝 | Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](README.md) para mais detalhes.
